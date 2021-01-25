@@ -6,6 +6,7 @@
 #include "vector"
 #include "unordered_map"
 #include "unordered_set"
+#include "list"
 #include <gtest/gtest.h>
 #include "cmath"
 
